@@ -1,0 +1,19 @@
+{
+  "name": "mini_api_s_git",
+  "version": "1.0.0",
+  "description": "test mini api s gitem",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Romac1234/mini_api_s_git.git"
+  },
+  "author": "Romac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Romac1234/mini_api_s_git/issues"
+  },
+  "homepage": "https://github.com/Romac1234/mini_api_s_git#readme"
+}
