@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Romac1234/mini_api_s_git/issues"
   },
-  "homepage": "https://github.com/Romac1234/mini_api_s_git#readme"
+  "homepage": "https://github.com/Romac1234/mini_api_s_git#readme",
+  "dependencies": {
+    "@netlify/functions": "^2.8.2",
+    "serverless-http": "^3.2.0"
+  }
 }
