@@ -1,5 +1,5 @@
 [functions]
-  functions = ["functions"]
+  [functions.functions]
   external_node_modules = ["express", "body-parser"]
 [[redirects]]
   force = true
