@@ -1,6 +1,6 @@
-[functions]
+[build]
   external_node_modules = ["express", "body-parser"]
-  node_bundler = "esbuild"
+  functions = "functions"
 [[redirects]]
   force = true
   from = "/api/*"
