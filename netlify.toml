@@ -1,4 +1,4 @@
-[build]
+[functions]
   external_node_modules = ["express", "body-parser"]
   functions = "functions"
 [[redirects]]
